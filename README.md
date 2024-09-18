@@ -1,5 +1,5 @@
-# NOT BEING WORKED ON/MAINTAINED AT THIS TIME
-## SelectScript 
+## NOT BEING WORKED ON/MAINTAINED AT THIS TIME
+# SelectScript 
 
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
